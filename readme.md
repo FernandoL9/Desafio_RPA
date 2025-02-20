@@ -1,4 +1,5 @@
-🌟 Desafio RPA 🌟
+# 🌟 Desafio RPA 🌟
+
 🚀 Este projeto tem como objetivo criar uma automação utilizando RPA (Automação de Processos Robóticos).
 
 O principal objetivo deste desafio é automatizar um processo consumo de pagina de livro. 
@@ -8,10 +9,13 @@ O principal objetivo deste desafio é automatizar um processo consumo de pagina 
 bash
 Desafio_RPA/
 ├── src/
-│   ├── main.py         # Script principal que executa a automação
-│   └── utils.py        # Funções utilitárias do projeto
-├── requirements.txt    # Lista de dependências necessárias
-└── README.md           # Este arquivo contendo a descrição do projeto e instruções de uso
+│   ├── fecth.py        
+│   └── parser.py       
+│   └── save_data.py        
+│   └── save_extracting_data.py  
+├── main.py       
+├── requirements.txt    
+└── README.md           
 ```
 
 📦 Instalação
